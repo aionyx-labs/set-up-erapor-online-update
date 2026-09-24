@@ -1,3 +1,5 @@
 {
-  "enabled": true
+  "reason": 2,
+  "activeVersion": "3.0.0",
+  "downloadUrl": ""
 }
